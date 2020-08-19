@@ -1,3 +1,5 @@
+# Tic-tac-toe game developed with React and TypeScript
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -26,6 +28,18 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn lint`
+
+Lint the code via ESLint.
+
+### `yarn lint:fix`
+
+Fix ESLint problems.
+
+### `yarn format`
+
+Format the code with Prettier.
 
 ### `yarn eject`
 
